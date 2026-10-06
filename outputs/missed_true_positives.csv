@@ -1,0 +1,21 @@
+,Hour,DayOfWeek,OffHours,MitreCount,MitreMissing,Category,EntityType,EvidenceRole,OSFamily,CountryCode,AlertTitle,DetectorId,true,P_TP
+3799,11,2,0,0,1,Discovery,User,Related,Windows 11,US,Discovery_Rule_3,3,TruePositive,0.032167722953671846
+18443,14,1,0,1,0,Discovery,User,Impacted,Android,US,Discovery_Rule_7,19,TruePositive,0.04626210912311935
+24027,6,0,0,2,0,Discovery,Process,Impacted,Windows 11,US,Discovery_Rule_3,3,TruePositive,0.054365198029390494
+4886,12,4,0,0,1,SuspiciousActivity,File,Related,Windows 10,GB,SuspiciousActivity_Rule_5,41,TruePositive,0.05448129390171292
+11517,11,1,0,0,1,Discovery,Process,Related,Windows 11,GB,Discovery_Rule_2,14,TruePositive,0.05497588030837565
+22916,15,2,0,0,1,SuspiciousActivity,User,Impacted,macOS,IN,SuspiciousActivity_Rule_3,3,TruePositive,0.05764070054467131
+19152,0,6,1,1,0,SuspiciousActivity,Url,Related,Windows 10,SG,SuspiciousActivity_Rule_0,36,TruePositive,0.06247350055717603
+15461,23,2,1,0,1,Discovery,Url,Related,macOS,IN,Discovery_Rule_3,39,TruePositive,0.06421779820911325
+19375,14,1,0,1,0,SuspiciousActivity,User,Related,Linux,Unknown,SuspiciousActivity_Rule_3,51,TruePositive,0.06453780551007196
+14489,7,6,0,2,0,SuspiciousActivity,User,Impacted,Android,US,SuspiciousActivity_Rule_3,27,TruePositive,0.06546084073572349
+5030,22,3,1,1,0,Discovery,Machine,Impacted,macOS,GB,Discovery_Rule_7,19,TruePositive,0.06862253983627123
+25426,9,2,0,1,0,Discovery,Ip,Impacted,Windows 11,GB,Discovery_Rule_0,24,TruePositive,0.07207305639607407
+17362,19,5,0,0,1,Discovery,Url,Impacted,Windows 11,US,Discovery_Rule_10,22,TruePositive,0.07290668296171451
+9729,21,4,0,1,0,Discovery,File,Related,Windows 11,US,Discovery_Rule_3,39,TruePositive,0.07312535395849046
+8555,7,3,0,4,0,Discovery,Ip,Related,Windows 11,US,Discovery_Rule_3,51,TruePositive,0.0739788963121944
+20285,18,3,0,2,0,SuspiciousActivity,File,Impacted,Windows 11,US,SuspiciousActivity_Rule_7,19,TruePositive,0.07698290165984696
+15896,20,2,0,0,1,Discovery,User,Related,Windows 10,GB,Discovery_Rule_4,52,TruePositive,0.0779344848876675
+5594,21,3,0,1,0,SuspiciousActivity,Machine,Impacted,macOS,US,SuspiciousActivity_Rule_3,51,TruePositive,0.07864477094623672
+23511,10,4,0,1,0,Discovery,Machine,Related,Windows 10,US,Discovery_Rule_4,40,TruePositive,0.07889519421974148
+8637,22,1,1,0,1,Discovery,Ip,Impacted,Windows 10,IN,Discovery_Rule_3,51,TruePositive,0.08106758654305789

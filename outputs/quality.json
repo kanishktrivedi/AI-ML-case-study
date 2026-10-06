@@ -1,0 +1,18 @@
+{
+ "rows_raw": 30300,
+ "duplicates": 300,
+ "missing_pct": {
+  "Timestamp": 0.0,
+  "OrgId": 0.0,
+  "DetectorId": 0.0,
+  "AlertTitle": 0.0,
+  "Category": 0.0,
+  "MitreTechniques": 30.32,
+  "EntityType": 0.0,
+  "EvidenceRole": 0.0,
+  "OSFamily": 7.88,
+  "CountryCode": 5.14,
+  "IncidentGrade": 3.01
+ },
+ "rows_clean": 29091
+}

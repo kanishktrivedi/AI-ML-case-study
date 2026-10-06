@@ -1,0 +1,5 @@
+Model,Accuracy,Macro_F1,TP_Recall,TP_PR_AUC,Recall_in_top20pct
+Logistic Regression,0.4685,0.443,0.6515,0.6043,0.3242
+Hist Gradient Boosting,0.4535,0.4202,0.6723,0.5911,0.3119
+Random Forest,0.46,0.4196,0.6924,0.5689,0.3042
+Baseline (majority),0.4033,0.1916,1.0,0.4033,0.1981
